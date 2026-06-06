@@ -207,11 +207,9 @@ Interested in:
 
 ## Tableau Dashboard
 
-Add your Tableau Public link here:
 
-```text
 https://public.tableau.com/app/profile/gauri.mehrotra/viz/SupplyChainDelayRootCauseAnalysis/Dashboard1?publish=yes
-```
+
 
 ---
 

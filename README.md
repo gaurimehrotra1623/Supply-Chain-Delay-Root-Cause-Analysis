@@ -159,10 +159,7 @@ All dashboard metrics update dynamically based on selected filters.
 
 ## Dashboard Preview
 
-
-```md
 ![Dashboard](./images/dashboard.png)
-```
 
 ---
 
